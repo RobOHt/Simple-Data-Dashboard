@@ -8,4 +8,4 @@ Streamlit is an open-source app framework specifically designed for Machine Lear
 You can access the web app via this link on Streamlit Community Cloud: [https://simple-data-dashboard-ppd6utqk9cw746ltbcetur.streamlit.app/]
 
 ## How to Use
-Just open the link to interact with the web app directly in your browser. No additional setup required. However, there seems to be an issue with Streamlit Community Cloud on iOS devices, so using a computer is the safer option.
+Just open the link to interact with the web app directly in your browser. No additional setup required. However, there seems to be an issue with Streamlit Community Cloud on iPhone, so using a computer is the safer option.
